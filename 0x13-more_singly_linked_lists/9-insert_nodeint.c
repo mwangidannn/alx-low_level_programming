@@ -1,14 +1,4 @@
 #include "lists.h"
-
-/**
- * sum_listint - calculates the sum of all the data in a listint_t list
- * @head: first node in the linked list
- *
- * Return: resulting sum
- */
-listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n);
-#include "lists.h"
-
 /**
  * insert_nodeint_at_index - inserts a new node in a linked list,
  * at a given position
