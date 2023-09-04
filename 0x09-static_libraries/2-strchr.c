@@ -17,7 +17,3 @@ char *_strchr(char *h, char c)
 	}
 	return (0);
 }
-i
-
-
-
